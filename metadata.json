@@ -1,0 +1,6 @@
+{
+  "name": "Hozy Cozy Diorama - Căn Phòng Cua Iu",
+  "description": "Game trang trí phòng diorama isometric ấm áp phong cách Hozy dành tặng Cua iu với màn hình mã PIN 2112, hiệu ứng bụi nắng và lưu ảnh Polaroid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
